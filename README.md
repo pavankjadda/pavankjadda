@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@pavankjadda](https://medium.com/@pavankjadda)
 
-- 💬 Ask me about **Java, Spring Framework, Angular, Docker,Aws ECS**
+- 💬 Ask me about **Java, Spring Framework, Angular, Jenkins, Docker Swarm and Aws ECS**
 
 - 📄 Know about my experiences [https://pavankjadda.github.io/](https://pavankjadda.github.io/)
 
