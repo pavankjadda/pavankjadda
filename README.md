@@ -37,7 +37,7 @@
 <a href="https://twitter.com/pavankjadda" target="blank"><img align="center"
                                                               alt="pavankjadda"
                                                               height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" width="40"/></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/pavan-kumar-j-84b58117" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/pavan-kumar-j-84b58117" target="blank"><img align="center"
                                                                                                          alt="https://www.linkedin.com/in/pavan-kumar-j-84b58117"
                                                                                                          height="30"
                                                                                                          src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
