@@ -30,7 +30,7 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://dev.to/https://dev.to/pavankjadda" target="blank"><img align="center"
+<a href="https://dev.to/pavankjadda" target="blank"><img align="center"
                                                                         alt="https://dev.to/pavankjadda"
                                                                         height="30" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
                                                                         width="40"/></a>
