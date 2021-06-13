@@ -22,7 +22,7 @@
 
 - 📄 Know about my experiences [https://pavankjadda.github.io/](https://pavankjadda.github.io/)
 
-- ⚡ Fun fact **Geeks about latest developments in Java,Angular and DevOps**
+- ⚡ Fun fact **Geeks about latest developments in Java, Angular, ReactJS and DevOps**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -52,10 +52,10 @@
     <li>Java 8+</li>
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
-    <li>Docker, Kubernetes</li>
-    <li>AWS</li>
     <li>Angular 8+</li>
     <li>ReactJS</li>
+    <li>Docker, Kubernetes</li>
+    <li>AWS</li>
     <li>HTML5</li>
     <li>CSS3</li>
 </ul>
