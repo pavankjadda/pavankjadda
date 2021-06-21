@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavan K Jadda</h1>
-<h3 align="center">A passionate Full Stack developer(Java & Angular) from USA(born in India)</h3>
+<h3 align="center">A passionate Full Stack developer(Java, Angular and React) from USA(born in India)</h3>
 
 <p align="left"><img alt="pavankjadda"
                      src="https://komarev.com/ghpvc/?username=pavankjadda&label=Profile%20views&color=0e75b6&style=flat"/></p>
