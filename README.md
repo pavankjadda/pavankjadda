@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavan K Jadda</h1>
-<h3 align="center">A passionate Full Stack developer(Java, Angular and React) from USA(born in India)</h3>
+<h3 align="center">A passionate Full Stack developer(Java, Angular and React) in USA(from India)</h3>
 
 <p align="left"><img alt="pavankjadda"
                      src="https://komarev.com/ghpvc/?username=pavankjadda&label=Profile%20views&color=0e75b6&style=flat"/></p>
@@ -11,8 +11,6 @@
 <p align="left"><a href="https://twitter.com/pavankjadda" target="blank"><img
         alt="pavankjadda" src="https://img.shields.io/twitter/follow/pavankjadda?logo=twitter&style=for-the-badge"/></a>
 </p>
-
-- 🌱 I’m currently exploring **Vue JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankjadda](https://github.com/pavankjadda)
 
