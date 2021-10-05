@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavan K Jadda</h1>
-<h3 align="center">A passionate Full Stack developer(Java, Angular and React) in USA(from India)</h3>
+<h3 align="center">A passionate Full Stack developer(Java, Angular and React) working in USA(from India)</h3>
 
 <p align="left"><img alt="pavankjadda"
                      src="https://komarev.com/ghpvc/?username=pavankjadda&label=Profile%20views&color=0e75b6&style=flat"/></p>
@@ -16,15 +16,13 @@
 
 - 📝 I regulary write articles on [https://medium.com/@pavankjadda](https://medium.com/@pavankjadda)
 
-- 💬 Ask me about **Java, Spring Framework, Angular, Jenkins, Docker Swarm and Aws ECS**
+- 💬 Ask me about **Java, Spring Framework, Angular, React, Jenkins, Docker (Swarm) and Aws ECS**
 
 - 📄 Know about my experiences [https://pavankjadda.github.io/](https://pavankjadda.github.io/)
 
 - ⚡ Fun fact **Geeks about latest developments in Java, Angular, ReactJS and DevOps**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -51,7 +49,7 @@
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
     <li>Angular 8+</li>
-    <li>ReactJS</li>
+    <li>ReactJS 16.8.0+</li>
     <li>Docker, Kubernetes</li>
     <li>AWS</li>
     <li>HTML5</li>
