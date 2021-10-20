@@ -48,10 +48,11 @@
     <li>Java 8+</li>
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
+    <li>Spring Security</li>
     <li>Angular 8+</li>
     <li>ReactJS 16.8.0+</li>
-    <li>Docker, Kubernetes</li>
-    <li>AWS</li>
+    <li>Docker Swarm and AWS</li>
+    <li>Jenkins</li>
     <li>HTML5</li>
     <li>CSS3</li>
 </ul>
