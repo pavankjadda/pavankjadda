@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/pavankjadda](https://github.com/pavankjadda)
 
-- 📝 I regulary write articles on https://pavankjadda.dev.blog, https://medium.com/@pavankjadda and https://dev.to/pavankjadda
+- 📝 I regulary write articles on https://pavankjadda.dev/blog, https://medium.com/@pavankjadda and https://dev.to/pavankjadda
 
 - 💬 Ask me about **Java, Spring Framework, Angular, React, Jenkins, Docker (Swarm) and Aws ECS**
 
