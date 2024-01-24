@@ -45,16 +45,15 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <ul>
-    <li>Java 8+</li>
+    <li>Java</li>
     <li>Spring Boot</li>
     <li>Spring Data JPA</li>
     <li>Spring Security</li>
-    <li>Angular 8+</li>
-    <li>ReactJS 16.8.0+</li>
+    <li>Angular</li>
+    <li>ReactJS</li>
     <li>Docker Swarm and AWS</li>
     <li>Jenkins</li>
-    <li>HTML5</li>
-    <li>CSS3</li>
+    <li>HTML and CSS</li>
 </ul>
 </p>
 
