@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pavan Kumar Jadda</h1>
-<h3 align="center">A passionate Full Stack developer(Java, Angular and React) working in USA(from India)</h3>
+<h3 align="center">Full Stack developer working on Java, Angular and React</h3>
 
 <p align="left"><img alt="pavankjadda"
                      src="https://komarev.com/ghpvc/?username=pavankjadda&label=Profile%20views&color=0e75b6&style=flat"/></p>
@@ -16,7 +16,7 @@
 
 - 📝 I regulary write articles on https://pavankjadda.dev/blog, https://medium.com/@pavankjadda and https://dev.to/pavankjadda
 
-- 💬 Ask me about **Java, Spring Framework, Angular, React, Jenkins, Docker (Swarm) and Aws ECS**
+- 💬 Ask me about **Java, Spring Framework, Angular, React, Jenkins, Docker and Aws ECS**
 
 - 📄 Know about my experiences https://pavankjadda.dev
 
